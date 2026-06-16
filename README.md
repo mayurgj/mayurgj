@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="src/header.png" alt="Header banner" width="100%"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="src/profile.png" alt="Mayur Jadhav" width="120" style="border-radius: 50%;"/>
+</p>
+
 <h1 align="center">Hi, I'm Mayur Jadhav 👋</h1>
 
 <p align="center">
@@ -8,7 +18,7 @@
   <a href="mailto:mayurgj1978@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://twitter.com/call_me_mayur" target="_blank">
+  <a href="https://twitter.com/callme_mayur" target="_blank">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
   </a>
   <a href="https://github.com/mayurgj" target="_blank">
@@ -48,7 +58,7 @@ I'm a **Data Scientist and ML Engineer** passionate about building intelligent s
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurgj&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Mayur's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mayurgj&show_icons=true&theme=default&hide_border=true&count_private=false" alt="Mayur's GitHub stats" height="160"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurgj&layout=compact&theme=default&hide_border=true" alt="Top languages" height="160"/>
 </p>

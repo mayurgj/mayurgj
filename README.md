@@ -1,11 +1,19 @@
 <p align="center">
-  <img src="src/header.png" alt="Header banner" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="src/header-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="src/header.png">
+    <img src="src/header.png" alt="Header banner" width="100%"/>
+  </picture>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="src/profile.png" alt="Mayur Jadhav" width="120" style="border-radius: 50%;"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="src/profile-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="src/profile.png">
+    <img src="src/profile.png" alt="Mayur Jadhav" width="120" style="border-radius: 50%;"/>
+  </picture>
 </p>
 
 <h1 align="center">Hi, I'm Mayur Jadhav 👋</h1>
@@ -18,7 +26,7 @@
   <a href="mailto:mayurgj1978@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://twitter.com/callme_mayur" target="_blank">
+  <a href="https://twitter.com/call_me_mayur" target="_blank">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
   </a>
   <a href="https://github.com/mayurgj" target="_blank">
@@ -30,11 +38,11 @@
 
 ## About me
 
-I'm a **Data Scientist and ML Engineer** passionate about building intelligent systems and extracting meaningful insights from complex datasets. I enjoy working across the full data pipeline — from raw SQL queries to deployed machine learning models.
+I'm a **Data Analyst** passionate about extracting meaningful insights from complex datasets and improving business operations. I enjoy working across the data lifecycle — from raw SQL queries to polished, interactive dashboards.
 
-- 🔭 &nbsp;Currently building and sharing data science projects publicly
-- 🧠 &nbsp;Interested in machine learning, statistical modeling, and data storytelling
-- 🛠 &nbsp;Always exploring new tools in the Python ecosystem
+- 🔭 &nbsp;Currently building and sharing data analytics projects publicly
+- 🧠 &nbsp;Interested in business intelligence, statistical modeling, and data storytelling
+- 🛠 &nbsp;Always exploring new tools in the Python and SQL ecosystems
 - 📬 &nbsp;Reach me at [mayurgj1978@gmail.com](mailto:mayurgj1978@gmail.com)
 
 ---
@@ -58,22 +66,15 @@ I'm a **Data Scientist and ML Engineer** passionate about building intelligent s
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurgj&show_icons=true&theme=default&hide_border=true&count_private=false" alt="Mayur's GitHub stats" height="160"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mayurgj&show_icons=true&theme=dark&hide_border=true&count_private=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mayurgj&show_icons=true&theme=default&hide_border=true&count_private=false">
+    <img src="https://github-readme-stats.vercel.app/api?username=mayurgj&show_icons=true&theme=default&hide_border=true&count_private=false" alt="Mayur's GitHub stats" height="160"/>
+  </picture>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurgj&layout=compact&theme=default&hide_border=true" alt="Top languages" height="160"/>
-</p>
-
----
-
-## Public projects
-
-<!-- GitHub automatically surfaces your pinned repos below this section. -->
-<!-- Pin your best repositories from your GitHub profile → Customize your profile → Pin repositories. -->
-
-> ⭐ Check out my pinned repositories below for my latest data science and ML work.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayurgj&label=Profile+views&color=0e75b6&style=flat" alt="Profile view counter"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurgj&layout=compact&theme=dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurgj&layout=compact&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurgj&layout=compact&theme=default&hide_border=true" alt="Top languages" height="160"/>
+  </picture>
 </p>
